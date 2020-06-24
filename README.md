@@ -1,2 +1,5 @@
-# ami
-ini adalah project Al-Mu'awanah Management Information
+# Jajatda
+Ini adalah project Jajat Darajat
+
+# أهلا وسهلا
+تجريبة في كتابة `العربية` ا
